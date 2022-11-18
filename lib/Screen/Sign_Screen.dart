@@ -143,7 +143,7 @@ class _SignInScreenState extends State<SignInScreen> {
                       borderRadius: BorderRadius.all(Radius.circular(5)),
                     ),
                     color: blueColor),
-                child: const Text("Sign In"),
+                child: const Text("Sign In instagram"),
               ),
             ),
             const SizedBox(
