@@ -150,7 +150,7 @@ class _SignInScreenState extends State<SignInScreen> {
               height: 14,
             ),
             Flexible(
-              flex: 1,
+              flex: 2,
               child: Container(),
             ),
             Row(
