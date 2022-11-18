@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322716192998",
+    "project_id": "instacl-b5333",
+    "storage_bucket": "instacl-b5333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322716192998:android:0971601e973431476feb27",
+        "android_client_info": {
+          "package_name": "com.example.instacl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322716192998-70mpbf3gh3j4r94c7fh0to11rpr62daf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdUARAQBO1grkOjGfnGyiwOfQ5UaENn_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322716192998-70mpbf3gh3j4r94c7fh0to11rpr62daf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
